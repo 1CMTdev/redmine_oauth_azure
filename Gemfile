@@ -23,4 +23,4 @@ source 'https://rubygems.org'
 
 gem 'oauth2'
 gem 'jwt'
-gem 'net-imap', '~> 0.3.1'
+
